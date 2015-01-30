@@ -1,0 +1,23 @@
+{
+  "name": "leisurepools-respoesserver",
+  "description": "LP Testing Server",
+  "version": "0.0.1",
+  "private": true,
+  "author": "Michael Thomas",
+  "homepage": "",
+  "bugs": { "url": "" },
+  "scripts": { "start": "nodemon app.js" },
+  "dependencies": {
+    "express": "4.x"
+  },
+  "devDependencies": {
+    "grunt": "0.4.x",
+    "nodemon": "*"
+  },
+  "keywords": [],
+  "repository": "",
+  "licenses": [{
+    "type": "MIT",
+    "url": "http://opensource.org/licenses/MIT"
+  }]
+}
